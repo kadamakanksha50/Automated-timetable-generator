@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Addclass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AddSubject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="addYear.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminlogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HODForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HODLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Semester.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SemesterCirculum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StudentLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StudentPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Teachers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TimeTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
